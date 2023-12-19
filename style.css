@@ -1,0 +1,53 @@
+body{
+    background-color: red;
+}
+
+#box{
+    padding: 20px;
+    margin-left: 150px;
+    margin-right: 29px;
+    background-color: bisque;
+    width: 1000px;
+    height: 800px;
+    align-items: center;
+}
+.box1{
+    margin: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: sandybrown;
+}
+.box1 p{
+    color: green;
+    font-size: 25px;
+}
+.box2{
+    background-color: sandybrown;
+    padding: 20px;
+    margin: 20px;
+    width: 45%;
+    height: 48%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+}
+.box3{
+    background-color: sandybrown;
+    padding: 10px;
+    margin:20px;
+    width: 35%;
+    height: 50%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+}
+.box4{
+    margin: 20px;
+    margin-top: 550px;
+    padding: 10px;
+    background-color: sandybrown;
+}
+.box4 p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
